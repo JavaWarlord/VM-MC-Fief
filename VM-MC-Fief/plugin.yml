@@ -1,0 +1,12 @@
+name: Fief
+version: 0.00
+description: Land/property management
+author: JavaWarlord
+website: www.valiantmarauders.com
+main: com.valiantmarauders.minecraft.fief.Fief
+commands:
+  nospawn:
+    description: Main command
+    aliases: [fief]
+    usage: 
+      /<command> [parameters]
