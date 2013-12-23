@@ -1,12 +1,12 @@
-name: Fief
+name: Fiefdom
 version: 0.00
 description: Land/property management
 author: JavaWarlord
 website: www.valiantmarauders.com
-main: com.valiantmarauders.minecraft.fief.Fief
+main: com.valiantmarauders.minecraft.fiefdom.Fiefdom
 commands:
   nospawn:
     description: Main command
-    aliases: [fief]
+    aliases: [Fiefdom]
     usage: 
       /<command> [parameters]
